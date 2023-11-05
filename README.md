@@ -1,6 +1,6 @@
 # Maciel-WebSite-
 - My professional goal
-    Share the progress of my skills.
+    is to share the progress of my skills.
     
 - Website’s purpose:
     The final purpose of the website is to serve users who want to create a new project and/or view their project, which includes tasks with checkboxes, start and end dates, and the responsible party for the task.
